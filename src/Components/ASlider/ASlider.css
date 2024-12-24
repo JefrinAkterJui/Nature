@@ -1,0 +1,20 @@
+.main_A_slider .A_s_text h2{
+    @apply font-Lora font-normal text-[20px] md:text-[45px] text-[#fff] mt-[40px] 
+}
+.main_A_slider .A_s_text  p{
+    @apply font-Civo font-normal text-[7px] md:text-[14px]
+    text-[#fff]
+}
+.main_A_slider{
+    @apply bg-About1 bg-cover bg-center w-[100px] h-[100px] md:w-[283px] md:h-[185px]  
+    
+}
+.AS1{
+    @apply bg-About2
+}
+.AS2{
+    @apply bg-About3
+}
+.AS3{
+    @apply bg-About4
+}

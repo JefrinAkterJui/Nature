@@ -1,0 +1,14 @@
+.main_plant{
+    @apply py-[22px] px-[32px] bg-[#fff] rounded-[10px] 
+}
+.plant_text h1{
+    @apply font-Lora font-normal md:text-[43px] text-[#181820] md:w-[444px]
+}
+.plant_text p{
+    @apply font-Lora font-medium md:text-[16px] text-[#6F747B] md:w-[410px] 
+}
+.plant_text button{
+    @apply md:py-[12px] md:px-[40px] border-[1px] border-[#256D72]
+    hover:bg-[#256D72] duration-[.2s]  rounded-[3px] mt-[30px]
+    cursor-pointer font-Lora font-semibold text-[13px] text-[#000] mb-[30px]
+}

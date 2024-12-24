@@ -1,0 +1,14 @@
+.Live_main{
+    @apply w-[684px]  py-4 bg-[#fff] px-6
+}
+.Live_text h1{
+    @apply font-Lora font-normal text-[43px] text-[#181820]
+}
+.Live_text p{
+    @apply font-Lora font-medium md:text-[15px] text-[#6F747B] md:w-[413px] md:mt-[20px]
+}
+.Live_text button{
+    @apply md:py-[12px] md:px-[40px] border-[1px] border-[#256D72] 
+    hover:bg-[#256D72] duration-[.2s]  rounded-[3px] md:mt-[30px] hover:text-[#fff]
+    cursor-pointer font-Lora font-semibold md:text-[13px] text-[#000] mb-[30px]
+}

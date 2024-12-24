@@ -1,0 +1,17 @@
+.main_text h1{
+    @apply font-Lora font-normal text-[45px] text-[#181820] w-[427px]
+}
+.main_text p{
+    @apply font-Lora font-medium text-[16px] text-[#6F747B] w-[443px] mt-[30px]
+}
+.mail{
+    @apply mt-[64px] w-[444px] border-[1px] border-[#E6E9EF] rounded-[4px]
+}
+.mail input{
+    @apply pl-[29px] py-[13px] pr-[128px] outline-none border-none
+}
+.main_text .mail button{
+    @apply py-[17px] px-[24px] bg-[#257251] rounded-[4px]
+    font-monstar font-semibold text-[14px] text-[#fff]
+    hover:bg-[#257251e5] duration-300
+}

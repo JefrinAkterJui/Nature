@@ -1,0 +1,18 @@
+.Jui-nav li{
+    @apply  flex md:gap-[64px] gap-[30px] outline-none
+}
+.ActivePage{
+    @apply font-Lora  font-medium md:text-[16px] text-[7px] text-[#000]
+    border-b-4 border-[#257251] pb-1 rounded-[2px] 
+}
+.NotActivePage{
+    @apply font-Lora  font-medium md:text-[16px] text-[7px] text-[#000]
+    border-b-4 border-[#ffffff] pb-1 rounded-[2px] 
+}
+ .NavButton {
+    @apply w-[143px] h-[44px]  text-[#000] 
+    rounded-[4px] font-Lora font-semibold text-[14px] border-[1px] border-[#257251] hover:bg-[#257251] duration-300 hover:text-[#fff]
+    outline-none
+}
+
+

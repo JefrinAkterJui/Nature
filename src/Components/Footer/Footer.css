@@ -1,0 +1,23 @@
+.Onehead {
+    @apply font-Lora font-semibold text-[10px] md:text-[18px] text-[#161C1E] mt-[38px] mb-[20px]
+}
+.col_One p{
+    @apply font-Inter font-normal text-[5px] md:text-[14px] text-[#161C1E] mb-[16px] hover:text-[#257251]
+    duration-300
+}
+.col_tow p{
+    @apply font-Inter font-normal text-[5px] md:text-[14px] text-[#161C1E] mb-[16px] hover:text-[#257251]
+    duration-300
+}
+.col_three p{
+    @apply font-Inter font-normal text-[5px] md:text-[14px] text-[#161C1E] mb-[16px] hover:text-[#257251]
+    duration-300
+}
+.col_four p{
+    @apply font-Inter font-normal text-[5px] md:text-[14px] text-[#161C1E] mb-[16px] hover:text-[#257251]
+    duration-300
+}
+.col_five p{
+    @apply font-Inter font-normal text-[5px] md:text-[14px] text-[#161C1E] mb-[16px] hover:text-[#257251]
+    duration-300
+}

@@ -1,0 +1,12 @@
+.team_text{
+    @apply font-Lora font-normal text-[12px] md:text-[45px] text-[#181820]
+}
+.Team_member h2{
+    @apply font-Lora font-normal text-[10px] md:text-[32px] text-[#000] md:mt-[24px]
+}
+.Team_member h3{
+    @apply font-monstar font-medium text-[8px] md:text-[16px] text-[#2C2C2C] md:mt-[24px]
+}
+.Team_member p{
+    @apply font-monstar font-medium text-[8px] md:text-[16px] text-[#2C2C2C] md:mt-[24px] md:w-[268px] mt-[24px]
+}
